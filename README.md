@@ -31,14 +31,15 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨‍💻 I'm currently a student at **trash university**, major is big data technology and application;
-- 🌱 I'm currently learning **Web development and English**; 
-- 🤔 My hobbies are **playing chess and running**;
-- 💼 I am an **obsessive-compulsive disorder**;
-- 💬 If you have any questions, **just ask me**;
+- 👨‍💻 I'm currently a student at **trash university**.
+- Major is big data technology and application.
+- 🌱 I'm currently learning **Web development and English**. 
+- 🤔 My hobbies are **playing chess and running**.
+- 💼 I am an **obsessive-compulsive disorder**.
+- 💬 If you have any questions, **just ask me**.
 - 📫 Please contact me via email:
-- QQ email: 1374051310@qq.com 
-- or Gmail:yzplove99@gmail.com.
+- QQ email: 1374051310@qq.com. 
+- Or Gmail:yzplove99@gmail.com.
 
 **Languages and Tools:**  
 
