@@ -12,7 +12,7 @@
 <a href="https://github.com/yzp-99/">
   <img align="left" alt="Jack yu's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.mail.google.com ">
+<a href="https://mail.google.com/ ">
   <img align="left" alt="Jack yu's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
 </a>
 
