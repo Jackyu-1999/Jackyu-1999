@@ -31,8 +31,8 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨‍💻 I'm currently a student at **trash university**.
-- Major is big data technology and application.
+- 👨‍🏛 I'm currently a student at **trash university**.
+- 💻 Major is big data technology and application.
 - 🌱 I'm currently learning **Web development and English**. 
 - 🤔 My hobbies are **playing chess and running**.
 - 💼 I am an **obsessive-compulsive disorder**.
