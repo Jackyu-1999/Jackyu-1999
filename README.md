@@ -58,7 +58,7 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/hexo.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/wordpress.svg"></code>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongweiming&layout=compact&hide=html" alt="dongweiming" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackyu-1999" alt="Jackyu" />
 
 ![Jack yu's github stats](https://github-readme-stats.vercel.app/api?username=yzp-99&show_icons=true&hide_border=true)
 
