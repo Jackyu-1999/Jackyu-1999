@@ -90,7 +90,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Js            4 hrs 47 mins   ███████████▒░░░░░░░░░░░░░   45.61 % 
+Python        3 hrs 50 mins   █████████░░░░░░░░░░░░░░░░   36.59 % 
+Html          1 hr            ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+Css           45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Markdown      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 ```
 <!--END_SECTION:waka-->
 
