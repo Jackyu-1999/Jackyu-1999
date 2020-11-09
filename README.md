@@ -98,6 +98,6 @@ Markdown      5 mins          ▒░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime？username=Jackyu-1999" alt="Jackyu" />
+[！[willianrod的wakatime统计信息]（https://github-readme-stats.vercel.app/api/wakatime？username = Jackyu-1999）]（https://github.com/Jackyu-1999/github-readme-stats）
 
 **If you like this readme file, please give me star! ❤️**
