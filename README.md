@@ -58,11 +58,14 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/hexo.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/wordpress.svg"></code>
 
-![Top Langs ]（https://github-readme-stats.vercel.app/api/top-langs/？username = Jackyu-1999）]（https://github.com/Jackyu-1999/github-readme-stats）
+<hr>
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Jackyu-1999&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackyu-1999)](https://github.com/Jackyu-1999/github-readme-stats)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=minoveaz)
 
-[！[jack的github统计信息]（https://github-readme-stats.vercel.app/api？username = Jackyu-1999）]（https://github.com/Jackyu-1999/github-readme-stats）
+<hr>
 
 
 
