@@ -93,7 +93,7 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 <p align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/？username = Jackyu-1999" alt="Jackyu" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongweiming&layout=compact&hide=html" alt="dongweiming" />
 </p>
 
 **If you like this readme file, please give me star! ❤️**
