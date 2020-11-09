@@ -60,9 +60,9 @@
 
 ![Top Langs ]（https://github-readme-stats.vercel.app/api/top-langs/？username = Jackyu-1999）]（https://github.com/Jackyu-1999/github-readme-stats）
 
-![Jack yu's github stats](https://github-readme-stats.vercel.app/api?username=Jackyu-1999&show_icons=true&hide_border=true)
 
 
+[！[jack的github统计信息]（https://github-readme-stats.vercel.app/api？username = Jackyu-1999）]（https://github.com/Jackyu-1999/github-readme-stats）
 
 
 
