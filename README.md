@@ -92,6 +92,8 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-（https://github-readme-stats.vercel.app/api/top-langs/？username = Jackyu-1999）]（https://github.com/Jackyu-1999/github-readme-stats）
+<p align="left">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/？username = Jackyu-1999" alt="Jackyu" />
+</p>
 
 **If you like this readme file, please give me star! ❤️**
