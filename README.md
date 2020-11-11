@@ -87,7 +87,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackyu-1999" alt="Jackyu" />
 
 
-<p>[！[willianrod的wakatime统计信息]（https://github-readme-stats.vercel.app/api/wakatime？username = willianrod）]（https://github.com/anuraghazra/github-readme-stats）</p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Jackyu-1999" alt="Jackyu" />
 
 
 **If you like this readme file, please give me star! ❤️**
