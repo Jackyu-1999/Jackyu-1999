@@ -86,8 +86,11 @@
 <br />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackyu-1999" alt="Jackyu" />
 
+📊 This Week I Spent My Time On:
 
-c134d824-c084-42f8-805d-4433a2cb090e
+!--START_SECTION:waka--
+
+!--END_SECTION:waka--
 
 
 **If you like this readme file, please give me star! ❤️**
