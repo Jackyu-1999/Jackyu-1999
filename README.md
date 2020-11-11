@@ -86,12 +86,8 @@
 <br />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackyu-1999" alt="Jackyu" />
 
-📊 **This Week I Spent My Time On:**
 
-<!--START_SECTION:waka-->
-```text
-```
-<!--END_SECTION:waka-->
+[！[willianrod的wakatime统计信息]（https://github-readme-stats.vercel.app/api/wakatime？username = willianrod）]（https://github.com/anuraghazra/github-readme-stats）
 
 
 **If you like this readme file, please give me star! ❤️**
