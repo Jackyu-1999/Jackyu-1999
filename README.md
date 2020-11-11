@@ -87,7 +87,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackyu-1999" alt="Jackyu" />
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Jackyu-1999" alt="Jackyu" />
+c134d824-c084-42f8-805d-4433a2cb090e
 
 
 **If you like this readme file, please give me star! ❤️**
