@@ -86,13 +86,6 @@
 📊 **My recent programming status:**
 <!--START_SECTION:waka-->
 ```text
-
-💬 Programming Languages: 
-
-🔥 Editors: 
-
-🐱‍💻 Projects: 
-
 ```
 <!--END_SECTION:waka-->
 
