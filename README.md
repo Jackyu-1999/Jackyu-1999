@@ -60,7 +60,8 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Jackyu-1999&count_private=true&show_icons=true" alt="Jackyu" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackyu-1999" alt="Jackyu" />
-
+<br />
+<br />
 **Technology being learned**
 
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg"></code>
