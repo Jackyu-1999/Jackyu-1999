@@ -44,6 +44,9 @@
 - QQ email: 1374051310@qq.com. 
 - Or Gmail:yzplove99@gmail.com.
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Jackyu-1999&count_private=true&show_icons=true" alt="Jackyu" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackyu-1999" alt="Jackyu" />
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg"></code>
