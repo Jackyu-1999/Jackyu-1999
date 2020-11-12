@@ -86,7 +86,7 @@
 <br />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackyu-1999" alt="Jackyu" />
 
-📊 **This Week I Spent My Time On:**
+📊 **My recent programming status:**
 <!--START_SECTION:waka-->
 ```text
 Python                1 hr 17 mins    ███████████░░░░░░░░░░░░░░   44.60 % 
