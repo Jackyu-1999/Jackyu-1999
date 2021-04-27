@@ -30,7 +30,7 @@
 - Although I was **not interested** in it at the beginning,
 - **luckily I slowly fell in love with it. ❤️**
 
-<img align="right" alt="GIF" width="300px" src="https://cdn.jsdelivr.net/gh/Jackyu-1999/CDN-Static@main/熊猫.jpg" />
+<img align="right" alt="jpg" width="250px" src="https://cdn.jsdelivr.net/gh/Jackyu-1999/CDN-Static@main/熊猫.jpg" />
 
 **Talking about Personal Stuffs:**
 
