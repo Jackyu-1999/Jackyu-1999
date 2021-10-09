@@ -22,7 +22,7 @@
 <br />
 <br />
 
-- I am a nerd with **Programming rookie** 
+- I am a **Programming rookie** 
 - I like to use a variety of useful **computer software** and build  **beautiful blog.**
 - I also like **literature, reading and writing.** 
 - I used to dream of being a writer.But **the reality made me have to learn a technology💻,**
