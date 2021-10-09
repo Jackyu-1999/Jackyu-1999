@@ -22,7 +22,7 @@
 <br />
 <br />
 
-- I am a nerd with **poor programming skills (A waste 🌍).** 
+- I am a nerd with **Programming rookie** 
 - I like to use a variety of useful **computer software** and build  **beautiful blog.**
 - I also like **literature, reading and writing.** 
 - I used to dream of being a writer.But **the reality made me have to learn a technology💻,**
@@ -34,8 +34,8 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨‍🏛 I am currently a student of Jishou University.
-- 💻 Major is Computer Science and Technology.
+- 👨‍🏛 I am currently a student of **Jishou University**.
+- 💻 Major is **Computer Science and Technology**.
 - 🌱 I'm currently learning **Web development and English**. 
 - 🤔 My hobbies are **playing chess and running**.
 - 💼 I am an **obsessive-compulsive disorder**.
