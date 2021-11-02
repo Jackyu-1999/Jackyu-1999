@@ -83,7 +83,8 @@
 📊 **My recent programming status:**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python   36 mins         ███████████████████████░░   92.22 % 
+Other    3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
 ```
 <!--END_SECTION:waka-->
 
