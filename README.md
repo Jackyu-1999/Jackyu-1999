@@ -83,7 +83,8 @@
 📊 **My recent programming status:**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+HTML         1 hr 37 mins    ██████████████████▒░░░░░░   72.75 % 
+JavaScript   36 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.04 % 
 ```
 <!--END_SECTION:waka-->
 
