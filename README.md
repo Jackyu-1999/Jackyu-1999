@@ -82,9 +82,11 @@
 
 📊 **My recent programming status:**
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 **If you like this readme file, please give me star! ❤️**
