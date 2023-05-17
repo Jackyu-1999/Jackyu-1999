@@ -84,8 +84,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python   2 hrs 31 mins   █████████████████████▒░░░   85.97 %
-HTML     24 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
+Python            4 hrs 17 mins   ██████████████████▓░░░░░░   75.20 %
+HTML              1 hr 21 mins    ██████░░░░░░░░░░░░░░░░░░░   23.96 %
+JavaScript        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Gettext Catalog   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
