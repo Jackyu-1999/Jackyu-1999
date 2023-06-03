@@ -83,7 +83,7 @@
 📊 **My recent programming status:**
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Python   45 mins         █████████████████████████   100.00 %
 ```
 
