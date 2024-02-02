@@ -40,7 +40,6 @@
 - 🤔 My hobbies are **playing chess and running**.
 - 💼 I am an **obsessive-compulsive disorder**.
 - 💬 If you have any questions, **just ask me**.
-- This is my email: **yzplove99@gmail.com**.
 
 
 
